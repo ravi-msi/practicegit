@@ -13,7 +13,5 @@ namespace PracticeGit
         public string Commit1 { get; set; }
 
         public string Commit2 { get; set; }
-
-        public string Commit3 { get; set; }
     }
 }
