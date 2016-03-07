@@ -15,7 +15,5 @@ namespace PracticeGit
         public string Commit2 { get; set; }
 
         public int Commit4 { get; set; }
-
-        public string NewProperty { get; set; }
     }
 }
