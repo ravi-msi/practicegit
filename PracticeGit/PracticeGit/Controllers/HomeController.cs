@@ -6,6 +6,8 @@ using System.Web.Mvc;
 
 // ADDED FIRST LINE 
 
+// ADDED SECOND LINE
+
 namespace PracticeGit.Controllers
 {
     public class HomeController : Controller
